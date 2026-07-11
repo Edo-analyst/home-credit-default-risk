@@ -23,5 +23,3 @@ Home Credit wants to predict which loan applicants are likely to default, enabli
 ## Project Status
 🔄 In progress — Phase 2 (EDA)
 
-## Author
-Edo-Analyst
